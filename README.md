@@ -1,4 +1,4 @@
-# ouncing Balls
+# Bouncing Balls
 
 ## Codecademy Project
 
