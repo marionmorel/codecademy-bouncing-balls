@@ -59,7 +59,7 @@ function setup() {
       }
   
       // TODO: Reverse y direction if ball hits top or bottom sides
-      if (y[i] < 0 || y[i] > width) {
+      if (y[i] < 0 || y[i] > height) {
         ySpeed[i] *= -1;
       }
   
